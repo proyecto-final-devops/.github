@@ -42,7 +42,7 @@ avance_proyecto_devops/
 ├── frontend/         # Frontend Angular 
 ├── backend/          # Backend Node.js
 └── README.md         # Este archivo
-
+```
 ## 📬 Contacto
 
 Si deseas ponerte en contacto con nosotros, puedes escribirnos directamente:
