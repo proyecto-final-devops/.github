@@ -1,12 +1,65 @@
-## Hi there 👋
+# 🚀 Proyecto Final de DevOps
 
-<
+¡Hola! Este es el repositorio principal de nuestro **proyecto final de DevOps**, desarrollado como parte de nuestra formación profesional. Aquí aplicamos prácticas modernas de integración y entrega continua, junto con una arquitectura escalable.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## 👨‍💻 Equipo de Desarrollo
 
+| Nombre                                       | Rol                                        |
+|----------------------------------------------|---------------------------------------------|
+| **Brandon Alan Carrión Morales**             | Ing. de Infraestructura / Base de Datos     |
+| **Carolina Monserrat Hermosillo Castañeda**  | Ing. QA / Implementación                    |
+| **Gerardo Escamilla Cerda**                  | Ing. de Software / Backend                  |
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+
+---
+
+## 📦 Contenido del Proyecto
+
+- 🔧 **Frontend:** desarrollado con Angular y TypeScript.
+- ⚙️ **Backend:** construido con Node.js y Express.
+- 🗃️ **Base de datos:** PostgreSQL, con scripts y herramientas de migración.
+- 🐳 **Contenedores:** Docker para contenerización de servicios.
+- ✅ **QA & CI/CD:** implementación de pruebas, pipelines y despliegue automatizado.
+
+---
+
+## 📁 Estructura del Repositorio
+
+```bash
+avance_proyecto_devops/
+├── frontend/         # Frontend Angular 
+├── backend/          # Backend Node.js
+└── README.md         # Este archivo
+```bash
+avance_proyecto_devops/
+├── frontend/         # Frontend Angular 
+├── backend/          # Backend Node.js
+└── README.md         # Este archivo
+---
+
+## 📬 Contacto
+
+Si deseas ponerte en contacto con nosotros, puedes escribirnos directamente:
+
+- 📧 **Brandon Alan Carrión Morales**  
+  [brandon.carrion@email.com](mailto:brandon.carrion@email.com)
+
+- 📧 **Carolina Monserrat Hermosillo Castañeda**  
+  [carolina.hermosillo@email.com](mailto:carolina.hermosillo@email.com)
+
+- 📧 **Gerardo Escamilla Cerda**  
+  [gerardo.escamilla@email.com](mailto:gerardo.escamilla@email.com)
+
+También puedes abrir un [issue](https://github.com/tu-organizacion/avance_proyecto_devops/issues) para cualquier sugerencia o problema 💬
