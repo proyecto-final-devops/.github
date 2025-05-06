@@ -42,24 +42,18 @@ avance_proyecto_devops/
 ├── frontend/         # Frontend Angular 
 ├── backend/          # Backend Node.js
 └── README.md         # Este archivo
-```bash
-avance_proyecto_devops/
-├── frontend/         # Frontend Angular 
-├── backend/          # Backend Node.js
-└── README.md         # Este archivo
----
 
 ## 📬 Contacto
 
 Si deseas ponerte en contacto con nosotros, puedes escribirnos directamente:
 
 - 📧 **Brandon Alan Carrión Morales**  
-  [brandon.carrion@email.com](mailto:brandon.carrion@email.com)
+  [brandon.carrion@email.com](Correo)
 
 - 📧 **Carolina Monserrat Hermosillo Castañeda**  
-  [carolina.hermosillo@email.com](mailto:carolina.hermosillo@email.com)
+  [carolina.hermosillo@email.com](Correo)
 
 - 📧 **Gerardo Escamilla Cerda**  
-  [gerardo.escamilla@email.com](mailto:gerardo.escamilla@email.com)
+  [gerardo.escamilla@email.com](Correo)
 
-También puedes abrir un [issue](https://github.com/tu-organizacion/avance_proyecto_devops/issues) para cualquier sugerencia o problema 💬
+También puedes abrir un [issue](Actualizar link) para cualquier sugerencia o problema 💬
