@@ -55,9 +55,10 @@ Si deseas ponerte en contacto con nosotros, puedes escribirnos directamente:
 [carolina.hermosillo@email.com](mailto:) 
 -->
 
-
 - 📧 **Gerardo Escamilla Cerda**
+<!--
 [gerardo.escamilla@email.com](mailto:)
+-->
 
 
 
