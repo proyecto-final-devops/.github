@@ -48,12 +48,17 @@ avance_proyecto_devops/
 Si deseas ponerte en contacto con nosotros, puedes escribirnos directamente:
 
 - 📧 **Brandon Alan Carrión Morales**  
-  [brandon.carrion@email.com](Correo)
+  [al03108850@tecmilenio.mx](mailto:al03108850@tecmilenio.mx)
 
 - 📧 **Carolina Monserrat Hermosillo Castañeda**  
-  [carolina.hermosillo@email.com](Correo)
+<!--
+[carolina.hermosillo@email.com](mailto:) 
+-->
 
-- 📧 **Gerardo Escamilla Cerda**  
-  [gerardo.escamilla@email.com](Correo)
+
+- 📧 **Gerardo Escamilla Cerda**
+[gerardo.escamilla@email.com](mailto:)
+
+
 
 También puedes abrir un [issue](Actualizar link) para cualquier sugerencia o problema 💬
